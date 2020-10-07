@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 😄 Pronouns: https://izlyforever.com
+- ⚡ Fun fact: For the memeory of love between zly and czp
+
 <!--
 **izlyforever/izlyforever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +14,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: https://izlyforever.com
-- ⚡ Fun fact: For the memeory of love between zly and czp
+
 -->
