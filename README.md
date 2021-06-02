@@ -3,7 +3,7 @@
 - 😄 Konwledge website: https://www.cnblogs.com/izlyforever/ (For the memeory of math and algorithm)
 - 😄 Personal website: https://izlyforever.com (For the memeory of love between zly and czp)
 - 🔭 Skill: C++, Python, SageMath, noncommutative ring, Hopf algebra(Think twice, code once)
-- 🔭 cf Repository: https://github.com/izlyforever/cf (source code of CP, include code and doc about C++ personal template)
+- :bar_chart: cf Repository: https://github.com/izlyforever/cf (source code of CP, include code and doc about C++ personal template)
 - 📫 Mail: izlyforever@outlook.com
 
 <!--
