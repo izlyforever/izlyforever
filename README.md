@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - 😄 Blog: https://www.cnblogs.com/izlyforever/ (For the memeory of math and algorithm)
-- 🔭 Skill: C++, Python, SageMath, noncommutative ring, Hopf algebra(Think twice, code once)
-- :bar_chart: cf Repository: https://github.com/izlyforever/cf (source code of CP, include code and doc about C++ personal template)
+- 🔭 Skill: C++, Python, SageMath, noncommutative ring, Hopf algebra
 - 📫 Mail: izlyforever@outlook.com
 
 <!--
