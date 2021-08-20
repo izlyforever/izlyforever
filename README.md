@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 😄 Blog: https://izlyforever.com
-- 🔭 Skill: C++, Python, SageMath, noncommutative ring, Hopf algebra
 - 📫 Mail: izlyforever@outlook.com
+- 🔭 Skill: C++, Python, SageMath, noncommutative ring, Hopf algebra
 
 <!--
 **izlyforever/izlyforever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
