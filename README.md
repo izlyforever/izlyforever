@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 😄 Blog: https://www.cnblogs.com/izlyforever/ (For the memory of math and algorithms)
+- 😄 Blog: https://izlyforever.com
 - 🔭 Skill: C++, Python, SageMath, noncommutative ring, Hopf algebra
 - 📫 Mail: izlyforever@outlook.com
 
