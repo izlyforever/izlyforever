@@ -2,12 +2,8 @@
 
 - 😄 Blog: https://izlyforever.com
 - 📫 Mail: izlyforever@outlook.com
-- 🔭 Skill: C++, SageMath, noncommutative ring, Hopf algebra
+- 🔭 Skill: C99/C++17, noncommutative algebra
 - motto: 苟余行之不迷，虽颠沛其何伤
-
-### ToDo
-
-- add a repo with gn-ninja + gtest + ci/cd + shell + example + readme
 
 <!--
 **izlyforever/izlyforever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
