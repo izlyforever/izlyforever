@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-- 😄 Blog: https://izlyforever.com
-- 📫 Mail: izlyforever@outlook.com
-- 🔭 Skill: C99/C++17, noncommutative algebra
-- motto: 苟余行之不迷，虽颠沛其何伤
-
 <!--
 **izlyforever/izlyforever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
