@@ -1,3 +1,5 @@
+<img align="right" src="https://github-readme-stats-tr0y.vercel.app/api?username=izlyforever&show_icons=true&theme=radical&hide_title=true" />
+
 ### Hi there 👋
 
 GoodBye~
